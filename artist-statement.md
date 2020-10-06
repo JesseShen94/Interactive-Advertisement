@@ -1,3 +1,7 @@
 # Artist Statement
 
 Write your artist statement in this file (max 200 words).
+
+In my opinion, a social media ad is aimed at making customers feel the product is interesting/useful. The ad itself should be interesting first, to make sure audience won't click to close it at the very beginning. Sometimes it needs camouflage (a little tricky). That's what I did in my ad.
+Firstly, an interesting question is always a not bad hook. How can a burger "grow"? If people feel confused about this, they are hooked. Then a series of interactive actions, which looks like a game, guide them to make a burger with their own hands. Actually, this part is aimed at introducing our products - what is our burger, how we get the ingredients and so on. It's also a process to deepen their memory with participating. Finally, the final goal appears - the ad. Three "100%" related with their experience just now. Even the pictures are hand-made, it's very credible (LOL). 
+Just as have said, this ad looks like a game. However, they are different. For interactive game, the product is the game itself. But in this sketch, the game actually is a part of the hook. Besides the function of attracting people watching the whold ad, its also want to make customers believe more, believe the words at the end. 
