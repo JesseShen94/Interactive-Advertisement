@@ -7,6 +7,7 @@ var vegeenergy = [];
 var cattles = [];
 var steakenergy, cheeseenergy;
 var loc;
+var t;
 var pictureFilenames = [
   "assets/wheat1.jpg",
   "assets/wheat2.jpg",
@@ -46,12 +47,18 @@ function setup() {
   steakenergy = 0;
   cheeseenergy = 0;
   loc = (width-100)/8;
+  t=0;
 }
 
 function draw() {
   // add your draw code here
   if(vegeenergy[0]==1&&vegeenergy[1]==1&&vegeenergy[2]==1&&steakenergy==1&&cheeseenergy==1){
-    
+    stage=0;
+    drawstage();
+    drawfinal(t);
+    if(t<=height/2){
+      t=t+3;
+    }   
   }else{
     drawstage();
     if(stage==1){
